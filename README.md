@@ -1,4 +1,8 @@
+Forked from `eriklindernoren/PyTorch-YOLOv3` to obtain feature representations of images.
+
+
 # PyTorch-YOLOv3
+
 A minimal PyTorch implementation of YOLOv3, with support for training, inference and evaluation.
 
 ## Installation
