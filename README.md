@@ -1,4 +1,4 @@
-Forked from `eriklindernoren/PyTorch-YOLOv3` to obtain feature representations of images.
+*NOTE:* Forked from `eriklindernoren/PyTorch-YOLOv3` to obtain feature representations of images.
 
 
 # PyTorch-YOLOv3
